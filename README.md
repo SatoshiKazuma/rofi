@@ -1,4 +1,4 @@
-<h1 align="center" >Rofi Themes</h1>
+<h1 align="center" >rofi</h1>
 
 Quick collection of a few (three) rofi configs I have created.
 
